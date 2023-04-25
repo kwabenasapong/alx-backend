@@ -1,0 +1,4 @@
+# for python related the files in the directory
+
+*.pyc
+__pycache__
